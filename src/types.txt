@@ -1,0 +1,22 @@
+All types PAD-FDOC will use.
+
+
+PRIMITIVE
+int - Whole number.
+float - Non-whole number.
+bool - Boolean.
+str - String, text.
+any - Any type except HEADER types.
+list - Array of ALL types except ''null'' and HEADER types.
+null - Null.
+
+SPECIAL
+hex - Hexadecimal value.
+unix - UNIX-specific.
+binary - Binary code.
+
+HEADER
+info - Information, if applicable.
+
+HEADER | PROGRAMMING-SPECIFIC
+syntax - Syntax structure of said command in the given context.
