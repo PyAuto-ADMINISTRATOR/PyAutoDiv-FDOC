@@ -1,0 +1,10 @@
+PythonAutomaticDivision Formatted Documentation ; PyAutoDiv-FDOC
+This is PyAutoDiv-FDOC, the documentation format all PythonAutomaticDivision-related projects will use, if used.
+
+The syntax is as follows.
+
+NAME <TYPE> {
+    VALUE_NAME = VALUE [;
+        DESCRIPTION
+    ;]
+}
